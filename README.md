@@ -12,7 +12,8 @@
 
 ### 🚀 About Me
 
-With a background in product design, I bring a user-centered perspective to data analysis—connecting user behavior and storytelling with data-driven insights to better understand business needs and inform decisions.
+I bring quite a unique experience to the world of data analysis, offering a user-centered perspective and robust approach. With a background in product design/UX , connecting user behavior and storytelling with data-driven insights is second nature and offers a well-rounded understanding of business needs.
+#### Let's work together! ####
 
 ### Links
 
