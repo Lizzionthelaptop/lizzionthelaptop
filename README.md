@@ -14,8 +14,8 @@
 
 With a background in product design, I bring a user-centered perspective to data analysis—connecting user behavior and storytelling with data-driven insights to better understand business needs and inform decisions.
 
-🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau**  
-🌱 &nbsp;I'm currently learning **SQL and Python (intermmediate)**  
+🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau project**  
+🌱 &nbsp;I'm currently learning **More intermmediate SQL and Python**  
 💬 &nbsp;Ask me about **How my background shapes my approach to data analytics**  
 ⚡ &nbsp;Fun fact: **I'm pretty nice at Apex Legends**
 
