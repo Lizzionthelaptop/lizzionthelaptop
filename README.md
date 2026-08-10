@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lizz-graham">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Lizz" alt="Hello! I&#39;m Lizz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A3F0E2&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Lizz" alt="Hello! I&#39;m Lizz" />
   </a>
 </p>
 
@@ -13,6 +13,11 @@
 ### 🚀 About Me
 
 With a background in product design, I bring a user-centered perspective to data analysis—connecting user behavior and storytelling with data-driven insights to better understand business needs and inform decisions.
+
+### Links
+
+    LinkedIn: https://www.linkedin.com/in/lizzettegraham/
+    Portfolio: https://lizzettegraham.notion.site/ec59bc8164548248be94815444900afc?
 
 🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau project**  
 🌱 &nbsp;I'm currently learning **More intermmediate SQL and Python**  
