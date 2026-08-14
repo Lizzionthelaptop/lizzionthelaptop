@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lizz-graham">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A3F0E2&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Lizz" alt="Hello! I&#39;m Lizz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A3F0E2&fontSize=54&height=90&width=570&text=Hey!%20I'm%20Lizz" alt="Hello! I&#39;m Lizz" />
   </a>
 </p>
 
