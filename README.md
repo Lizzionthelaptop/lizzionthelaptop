@@ -22,8 +22,8 @@ When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creat
 | | |
 |:---|:---|
 | **Analysis** | Data Cleaning & Preparation · Exploratory Data Analysis · Correlation Analysis · Quality Assurance |
-| **Visualization** | Dashboard Design & Development · Tableau · Matplotlib · Tableau · Pivot Tables |
-| **Tools & Technologies** | Python · SQL · Pandas · NumPy · Excel · Mixpanel · GitHub · Figma · Jira |
+| **Visualization** | Dashboard Design & Development · Tableau · Matplotlib · Pivot Tables |
+| **Tools & Technologies** | Python · SQL · Pandas · NumPy · Excel · Database Design & Management · Mixpanel · GitHub · Figma · Jira |
 
 ### 🛠️ Education & Certifications
 
