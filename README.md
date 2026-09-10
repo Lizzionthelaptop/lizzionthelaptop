@@ -12,13 +12,10 @@
 
 ### 👩‍💻 About Me
 
-I bring quite a unique experience to the world of data analysis, offering a user-centered perspective and robust approach. With a background in product design/UX , connecting user behavior and storytelling with data-driven insights is second nature and offers a well-rounded understanding of business needs.
-####✌🏻 Let's work together! ####
-
-### Links
-
-    LinkedIn: https://www.linkedin.com/in/lizzettegraham/
-    Portfolio: https://lizzettegraham.notion.site/ec59bc8164548248be94815444900afc?
+I bring quite a unique experience to the world of data analytics, offering a user-centered perspective and robust approach. With a background in product design/UX , connecting user behavior and storytelling with data-driven insights is second nature and provides a well-rounded understanding of business goals and needs. 
+When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creating art and gaming. 
+✌🏻Let's work together:
+ ![LinkedIn](https://www.linkedin.com/in/lizzettegraham/)
 
 🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau project**  
 🌱 &nbsp;I'm currently learning **how to use gen ai in my analysis**  
