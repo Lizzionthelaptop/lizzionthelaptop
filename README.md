@@ -17,22 +17,18 @@ When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creat
 
 #### ✌🏻Let's work together:
  ![LinkedIn](https://www.linkedin.com/in/lizzettegraham/)
+ 
+### 🛠️ Skills
 
-🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau project**  
-🌱 &nbsp;I'm currently learning **how to use gen ai in my analysis**  
-💬 &nbsp;Ask me about **How my background shapes my approach to data analytics**  
-⚡ &nbsp;Fun fact: **I'm pretty good at Apex Legends 👾**
+| | |
+|:---|:---|
+| **Analysis** | Data Cleaning & Preparation · Exploratory Data Analysis · Correlation Analysis · Quality Assurance |
+| **Visualization** | Dashboard Design & Development · Tableau · Matplotlib · Tableau · Pivot Tables |
+| **Tools & Technologies** | Python · SQL · Pandas · NumPy · Excel · Mixpanel · GitHub · Figma · Jira |
 
-### 🛠️ Tech Stack
+### 🛠️ Education & Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1cd8c2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-7fe263?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/pandas-cc74a3?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Matplotlib-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-</p>
-
+| | |
+|:---|:---|
+| **IBM** | Data Analyst | 
+| **CUNY BMCC** | Honors, Multimedia Arts & Design |
