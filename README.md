@@ -14,7 +14,8 @@
 
 I bring quite a unique experience to the world of data analytics, offering a user-centered perspective and robust approach. With a background in product design/UX , connecting user behavior and storytelling with data-driven insights is second nature and provides a well-rounded understanding of business goals and needs. 
 When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creating art and gaming. 
-✌🏻Let's work together:
+
+#### ✌🏻Let's work together:
  ![LinkedIn](https://www.linkedin.com/in/lizzettegraham/)
 
 🔭 &nbsp;I'm currently working on **Data Cleaning and Visualization with Tableau project**  
@@ -35,11 +36,3 @@ When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creat
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Lizz-graham">Lizz-graham</a></i></p>
