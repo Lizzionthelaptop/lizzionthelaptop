@@ -30,4 +30,4 @@ When I’m not in a spreadsheet, I enjoy studying Japanese, making coffee, creat
 | | |
 |:---|:---|
 | **IBM** | Data Analyst | 
-| **CUNY BMCC** | Honors, Multimedia Arts & Design |
+| **A.S** | Honors, Multimedia Arts & Design |
